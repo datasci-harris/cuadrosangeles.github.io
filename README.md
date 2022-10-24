@@ -8,4 +8,4 @@
 + Optionally, you can select the same map and visualize its streets. Both maps were elaborated with ggplot2.
 + The final dashboard is uploaded in shinyapps.io. Please take a look at it at https://t7qixt-oscar-cuadros.shinyapps.io/homework-2-cuadrosangeles/
 
-+ I designed the Shiny dashboard as part of the Data and Programming for Public Policy II lecture at the University of Chicago. 
++ I designed the Shiny dashboard as part of the Data and Programming for Public Policy II lecture at the University of Chicago. Coding is in the app.R file.
