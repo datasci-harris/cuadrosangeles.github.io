@@ -1,5 +1,5 @@
 # Shiny
-# Shiny dashboard sample regarding Covid-19 in Chicago
+# This repository contains a Shiny dashboard sample regarding Covid-19 in Chicago
 
 + This Shiny dashboard shows basic information regarding the Covid-19 pandemic impact in Chicago between 2020 and 2022. It uses official data from https://data.cityofchicago.org/ 
 + The first block will show data distribution regarding Covid-19 deaths by Covid-19 Community Vulnerability Index (CCVI) levels.
